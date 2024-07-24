@@ -1,0 +1,8 @@
+.icon-tiktok {
+    /* Add TikTok icon styles here, e.g. */
+    background-image: url('\F6CC');
+    background-size: 24px 24px;
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+  }
